@@ -8,7 +8,7 @@ msg2 DB 10,13,"ACCESS GRANTED $"
 msg3 DB 10,13,"WRONG PIN $"
 msg4 DB 10,13,"SYSTEM LOCKED $"
 
-pin DB '1234'
+pin DB '6969'
 input DB 4 DUP(?)
 
 attempt DB 3
